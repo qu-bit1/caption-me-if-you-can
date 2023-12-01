@@ -23,7 +23,7 @@ This project will prove as an entry point for the mentees in the world of Machin
 ## Repo Setup 
 
 It is highly advisable to learn basic tools like git and terminal commands as they'll prove they'll be useful in the future.
-Resourced for terminal commands and git will be provided in [week1](week1.md).
+Resourced for terminal commands and git will be provided in [week1](week1).
 
 - Open your terminal
 - Clone this repository 
