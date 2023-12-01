@@ -1,9 +1,10 @@
 # Caption Me If You Can
 
 - This is the official repository for the BCS FAP (Freshers Amatuer Projects) - Caption me if you can
+- Discord will be our primary means of communication, join the bcs [server](https://discord.gg/zZQbZcu29f)
 - Mentors of the project :
-1. Sagar Arora (qu.bit)
-2. Manasvi Nidugala (manasvi_nid)
+1. [Sagar Arora](https://github.com/qu-bit1) (qu.bit)
+2. [Manasvi Nidugala](https://github.com/roses-and-thorns) (manasvi_nid)
 
 - The aim of the project is to create an **Image caption generator** using basic CNNs and LSTMs.
 
