@@ -27,7 +27,7 @@ Resourced for terminal commands and git will be provided in [week1](week1.md).
 - Open your terminal
 - Clone this repository 
 ```
-git clone https://github.com/udbhav-44/Music-Recommender-System-BCS.git
+git clone https://github.com/qu-bit1/caption-me-if-you-can.git
 ```
 
 - This will Clone the repository onto your local machine
