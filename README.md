@@ -1,5 +1,7 @@
 # Caption Me If You Can
 
+**This project is over can access the final notebook in the repo itself or [colab](https://colab.research.google.com/drive/1pS7tVLFMyFZnruNRDizTNiVc7_IQub6m?usp=sharing)**
+
 - This is the official repository for the BCS FAP (Freshers Amatuer Projects) - Caption me if you can
 - Discord will be our primary means of communication, join the bcs [server](https://discord.gg/zZQbZcu29f)
 - Mentors of the project :
